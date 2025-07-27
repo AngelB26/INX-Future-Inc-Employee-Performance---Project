@@ -1,0 +1,241 @@
+Employee_ID,EmpLastSalaryHikePercent,EmpEnvironmentSatisfaction,ExperienceYearsInCurrentRole,YearsSinceLastPromotion,BusinessTravelFrequency_Travel_Rarely,EmpJobRole_Developer,YearsWithCurrManager,EmpDepartment_Human Resources,ExperienceYearsAtThisCompany,EmpJobRole_Technical Lead,EmpWorkLifeBalance,EmpJobRole_Manager,EmpDepartment_Sales,EmpJobLevel,EmpDepartment_Development,EducationBackground_Other,EmpJobRole_Sales Executive,EmpJobRole_Laboratory Technician,MaritalStatus_Married,EmpHourlyRate,Predicted_Rating,Actual_Rating,Predicted_Category,Actual_Category,Correct_Prediction
+1,0.1666666666666666,0.0,-0.2,0.3333333333333333,True,False,-0.2,False,-0.4285714285714285,False,0.0,False,False,-0.5,True,False,False,False,True,-1.0285714285714285,3,3,Average,Average,True
+2,0.6666666666666666,0.0,-0.6,-0.3333333333333333,True,True,-0.6,False,-0.5714285714285714,False,-2.0,False,False,-0.5,True,False,False,False,False,0.0,3,3,Average,Average,True
+3,0.3333333333333333,0.0,-0.2,0.0,True,False,0.0,False,-0.1428571428571428,False,-2.0,False,True,0.0,False,False,True,False,True,-0.9428571428571428,3,2,Average,Below Average,False
+4,0.1666666666666666,-0.5,0.0,0.0,True,False,-0.2,False,-0.1428571428571428,False,0.0,False,False,0.5,False,False,False,False,True,-0.5142857142857142,2,2,Below Average,Below Average,True
+5,0.1666666666666666,0.0,-0.6,-0.3333333333333333,True,False,-0.6,False,-0.5714285714285714,False,0.0,False,False,0.0,True,False,False,False,False,-0.6,3,3,Average,Average,True
+6,0.3333333333333333,0.0,-0.2,0.3333333333333333,False,False,-0.2,False,-0.4285714285714285,False,0.0,False,False,-0.5,False,True,False,False,True,-0.6285714285714286,3,3,Average,Average,True
+7,0.6666666666666666,-0.5,1.2,0.0,True,False,0.4,False,0.7142857142857143,False,0.0,False,False,-0.5,False,False,False,False,False,0.6,2,2,Below Average,Below Average,True
+8,-0.3333333333333333,0.5,0.8,0.0,True,False,0.8,False,0.2857142857142857,False,0.0,False,True,0.0,False,False,True,False,False,-0.6857142857142857,3,3,Average,Average,True
+9,0.1666666666666666,-0.5,-0.6,0.3333333333333333,True,False,-0.2,False,-0.4285714285714285,False,0.0,False,False,0.0,False,False,False,False,True,0.3428571428571428,3,3,Average,Average,True
+10,0.0,0.5,0.0,0.0,False,False,1.4,False,1.2857142857142858,False,0.0,False,True,0.0,False,False,True,False,False,-0.2857142857142857,3,3,Average,Average,True
+11,0.0,0.0,0.8,1.0,True,False,1.2,False,2.142857142857143,False,1.0,False,False,1.5,False,False,False,False,False,-0.6285714285714286,3,3,Average,Average,True
+12,-0.3333333333333333,-0.5,-0.2,0.0,True,False,-0.2,False,-0.2857142857142857,False,-2.0,False,False,0.0,False,False,False,False,False,0.5428571428571428,2,2,Below Average,Below Average,True
+13,0.1666666666666666,0.5,0.0,-0.3333333333333333,True,False,-0.4,False,-0.1428571428571428,False,-1.0,False,False,0.0,False,True,False,False,False,-0.8857142857142857,3,3,Average,Average,True
+14,0.0,0.5,0.0,-0.3333333333333333,True,True,-0.2,False,0.0,False,0.0,False,False,-0.5,True,False,False,False,False,0.7142857142857143,3,3,Average,Average,True
+15,0.1666666666666666,0.0,0.8,-0.3333333333333333,True,False,1.0,False,0.7142857142857143,False,1.0,False,True,0.0,False,False,True,False,True,-0.2857142857142857,3,3,Average,Average,True
+16,-0.3333333333333333,-0.5,-0.6,-0.3333333333333333,False,False,-0.6,False,-0.5714285714285714,False,0.0,False,True,-0.5,False,False,False,False,False,-0.4571428571428571,3,3,Average,Average,True
+17,0.6666666666666666,0.5,-0.2,0.3333333333333333,False,False,-0.2,False,-0.4285714285714285,False,0.0,False,False,0.0,False,False,False,False,False,0.1714285714285714,3,3,Average,Average,True
+18,-0.5,0.0,1.0,-0.3333333333333333,True,False,1.2,False,0.7142857142857143,False,0.0,False,True,0.0,False,False,True,False,True,-0.3142857142857143,3,3,Average,Average,True
+19,1.3333333333333333,-1.0,0.0,-0.3333333333333333,True,False,0.2,False,0.0,False,-1.0,False,True,0.0,False,True,True,False,False,0.5428571428571428,3,3,Average,Average,True
+20,0.0,0.5,0.4,0.0,False,False,-0.4,False,0.2857142857142857,False,-1.0,False,False,-0.5,False,False,False,False,False,-0.1428571428571428,3,3,Average,Average,True
+21,-0.1666666666666666,-0.5,1.2,-0.3333333333333333,True,False,1.2,True,0.7142857142857143,False,-1.0,False,False,0.5,False,True,False,False,False,-0.4285714285714285,3,3,Average,Average,True
+22,-0.1666666666666666,-0.5,1.2,2.1666666666666665,True,False,-0.6,False,0.7142857142857143,False,0.0,False,True,0.5,False,False,True,False,True,-0.1428571428571428,2,2,Below Average,Below Average,True
+23,0.0,-1.0,0.2,0.0,True,True,0.6,False,0.7142857142857143,False,-1.0,False,False,1.5,True,False,False,False,False,0.8571428571428571,3,2,Average,Below Average,False
+24,0.0,0.5,-0.2,-0.3333333333333333,False,False,-0.2,False,-0.2857142857142857,True,-2.0,False,False,0.0,True,False,False,False,True,-0.0857142857142857,3,3,Average,Average,True
+25,0.3333333333333333,-1.0,-0.2,-0.3333333333333333,True,False,-0.2,False,-0.2857142857142857,False,-1.0,False,True,-0.5,False,False,False,False,True,0.1714285714285714,3,3,Average,Average,True
+26,1.1666666666666667,-0.5,0.0,0.0,True,False,0.0,False,-0.1428571428571428,False,-1.0,False,True,0.0,False,False,True,False,False,0.2571428571428571,2,2,Below Average,Below Average,True
+27,1.1666666666666667,0.5,0.8,0.0,True,False,0.8,False,0.4285714285714285,False,0.0,False,True,0.0,False,False,True,False,True,0.8285714285714286,4,4,Good,Good,True
+28,-0.5,0.0,-0.2,-0.3333333333333333,True,False,-0.2,False,-0.2857142857142857,False,0.0,False,False,-0.5,True,True,False,False,False,0.9714285714285714,3,3,Average,Average,True
+29,-0.3333333333333333,-0.5,0.6,2.0,True,False,0.8,False,0.2857142857142857,False,1.0,False,False,0.5,True,False,False,False,True,-0.2857142857142857,3,2,Average,Below Average,False
+30,-0.5,-1.0,-0.6,-0.3333333333333333,True,True,-0.6,False,-0.7142857142857143,False,-2.0,False,False,-0.5,True,False,False,False,False,0.3714285714285714,3,3,Average,Average,True
+31,-0.1666666666666666,-1.0,-0.2,-0.3333333333333333,True,True,-0.2,False,-0.4285714285714285,False,0.0,False,False,-0.5,True,False,False,False,True,0.7142857142857143,3,3,Average,Average,True
+32,1.1666666666666667,0.0,0.2,0.0,True,False,0.2,False,0.0,False,0.0,False,True,0.0,False,False,True,False,True,-0.3428571428571428,4,4,Good,Good,True
+33,0.6666666666666666,0.5,0.0,0.0,False,True,-0.2,False,-0.1428571428571428,False,0.0,False,False,-0.5,True,False,False,False,True,-0.7142857142857143,3,3,Average,Average,True
+34,-0.1666666666666666,0.0,0.8,1.6666666666666667,True,False,0.8,False,0.2857142857142857,False,0.0,False,False,0.0,True,False,False,False,False,-0.4285714285714285,3,3,Average,Average,True
+35,-0.3333333333333333,0.0,-0.2,0.3333333333333333,False,False,-0.2,False,-0.4285714285714285,False,-1.0,False,False,-0.5,False,False,False,True,True,0.1714285714285714,3,3,Average,Average,True
+36,1.1666666666666667,-0.5,-0.4,-0.3333333333333333,False,False,1.0,True,0.7142857142857143,False,-1.0,False,False,0.0,False,False,False,False,False,0.8,3,4,Average,Good,False
+37,-0.1666666666666666,0.5,0.8,0.0,True,False,0.8,False,0.2857142857142857,False,0.0,False,False,-0.5,True,False,False,False,True,-0.5714285714285714,3,3,Average,Average,True
+38,-0.1666666666666666,0.5,-0.2,0.3333333333333333,True,False,-0.2,False,-0.4285714285714285,False,0.0,False,False,-0.5,True,False,False,False,False,-0.7428571428571429,3,3,Average,Average,True
+39,1.0,0.0,0.2,-0.3333333333333333,True,True,-0.2,False,0.0,False,0.0,False,False,0.0,True,False,False,False,False,-0.6571428571428571,4,4,Good,Good,True
+40,-0.5,0.0,-0.6,-0.3333333333333333,True,True,-0.6,False,-0.5714285714285714,False,-1.0,False,False,-0.5,True,False,False,False,True,0.8571428571428571,3,3,Average,Average,True
+41,-0.1666666666666666,0.5,1.2,-0.3333333333333333,True,False,1.0,False,0.7142857142857143,False,0.0,False,True,0.5,False,False,True,False,False,0.7428571428571429,3,3,Average,Average,True
+42,-0.1666666666666666,0.5,2.0,0.3333333333333333,True,True,2.3,False,1.8571428571428568,False,0.0,False,False,-0.5,True,False,False,False,False,-0.2,3,3,Average,Average,True
+43,0.5,0.5,-0.6,-0.3333333333333333,True,False,-0.6,False,-0.5714285714285714,False,0.0,False,False,-0.5,True,False,False,False,False,0.4,3,3,Average,Average,True
+44,-0.3333333333333333,-0.5,1.4,0.6666666666666666,True,True,1.8,False,1.1428571428571428,False,-2.0,False,False,0.0,True,False,False,False,True,-1.0,2,3,Below Average,Average,False
+45,0.3333333333333333,0.0,-0.2,0.0,True,False,-0.4,False,0.0,True,-1.0,False,False,-0.5,True,False,False,False,True,-0.4285714285714285,3,3,Average,Average,True
+46,1.6666666666666667,0.0,-0.6,-0.3333333333333333,True,True,-0.6,False,-0.7142857142857143,False,-1.0,False,False,0.0,True,False,False,False,False,-0.4,4,4,Good,Good,True
+47,1.0,0.5,1.2,1.0,False,False,1.2,False,1.1428571428571428,False,0.0,False,False,0.0,False,False,False,False,False,0.8857142857142857,4,4,Good,Good,True
+48,-0.5,0.0,2.3,2.1666666666666665,True,True,2.3,False,2.2142857142857144,False,0.0,False,False,1.5,True,False,False,False,True,-0.2285714285714285,3,3,Average,Average,True
+49,0.8333333333333334,0.0,-0.2,0.0,False,False,-0.4,False,-0.1428571428571428,False,0.0,False,True,0.0,False,False,True,False,True,0.5142857142857142,3,3,Average,Average,True
+50,-0.1666666666666666,0.0,0.6,-0.3333333333333333,True,False,2.0,False,1.5714285714285714,False,0.0,False,False,0.5,True,False,False,False,False,-0.1142857142857142,3,3,Average,Average,True
+51,-0.1666666666666666,0.5,-0.6,-0.3333333333333333,False,False,-0.6,False,-0.5714285714285714,False,0.0,False,True,-0.5,False,False,False,False,True,0.3428571428571428,3,3,Average,Average,True
+52,-0.3333333333333333,-1.0,-0.2,0.3333333333333333,True,False,-0.2,False,-0.4285714285714285,False,0.0,False,False,-0.5,False,False,False,False,False,0.6285714285714286,2,2,Below Average,Below Average,True
+53,0.5,0.0,-0.4,0.3333333333333333,True,False,-0.2,False,-0.4285714285714285,False,0.0,False,False,1.5,False,False,False,False,False,-0.5714285714285714,3,3,Average,Average,True
+54,1.3333333333333333,0.5,0.8,0.0,True,True,0.8,False,0.2857142857142857,False,-1.0,False,False,0.0,True,False,False,False,False,-0.5142857142857142,4,4,Good,Good,True
+55,0.1666666666666666,-1.0,0.0,0.0,False,True,-0.2,False,-0.1428571428571428,False,-1.0,False,False,0.0,True,False,False,False,False,-0.6,3,3,Average,Average,True
+56,0.6666666666666666,0.5,1.6,2.1666666666666665,True,False,1.6,False,1.0,False,0.0,False,True,1.0,False,False,True,False,True,-0.3714285714285714,3,3,Average,Average,True
+57,-0.3333333333333333,0.0,0.2,0.0,False,True,0.2,False,0.0,False,0.0,False,False,0.0,True,False,False,False,True,0.6857142857142857,3,3,Average,Average,True
+58,0.6666666666666666,-1.0,-0.6,-0.3333333333333333,True,False,-0.6,False,-0.5714285714285714,False,0.0,False,False,-0.5,False,False,False,True,True,-0.0571428571428571,3,3,Average,Average,True
+59,-0.1666666666666666,0.5,1.0,1.3333333333333333,True,False,0.8,False,1.0,False,0.0,False,False,0.5,False,False,False,False,True,0.6857142857142857,3,3,Average,Average,True
+60,0.5,0.0,1.4,0.6666666666666666,True,False,0.8,False,1.8571428571428568,True,-1.0,False,False,0.5,True,False,False,False,False,-0.5142857142857142,3,3,Average,Average,True
+61,-0.5,-1.0,0.2,-0.3333333333333333,True,False,-0.2,False,0.0,False,0.0,False,False,-0.5,False,False,False,False,True,0.4571428571428571,3,3,Average,Average,True
+62,1.6666666666666667,0.5,-0.6,0.0,False,False,-0.6,False,-0.5714285714285714,False,-1.0,False,False,-0.5,False,False,False,False,False,0.2,4,4,Good,Good,True
+63,1.1666666666666667,0.0,-0.6,-0.3333333333333333,True,False,0.0,True,0.0,False,1.0,False,False,0.5,False,False,False,False,True,-0.2857142857142857,4,4,Good,Good,True
+64,0.5,0.5,-0.2,0.3333333333333333,True,True,-0.2,False,-0.4285714285714285,False,0.0,False,False,0.0,True,False,False,False,False,0.5714285714285714,3,3,Average,Average,True
+65,0.1666666666666666,0.0,1.0,-0.3333333333333333,True,False,0.8,False,0.7142857142857143,False,0.0,False,False,0.0,False,False,False,False,False,0.2857142857142857,3,3,Average,Average,True
+66,0.0,-1.0,-0.2,0.0,False,True,0.2,False,0.0,False,0.0,False,False,-0.5,True,False,False,False,False,-0.4857142857142857,3,3,Average,Average,True
+67,0.0,-1.0,-0.2,0.0,True,False,-0.2,False,-0.2857142857142857,False,-1.0,False,False,0.0,False,False,False,False,True,0.8571428571428571,2,2,Below Average,Below Average,True
+68,-0.3333333333333333,0.5,0.8,-0.3333333333333333,False,False,2.0,False,1.8571428571428568,False,0.0,False,True,0.0,False,False,True,False,True,0.8285714285714286,3,3,Average,Average,True
+69,-0.3333333333333333,0.5,0.8,1.3333333333333333,True,False,0.8,False,0.7142857142857143,False,0.0,False,True,0.0,False,False,True,False,False,0.2285714285714285,3,3,Average,Average,True
+70,1.3333333333333333,0.0,0.6,2.0,True,False,0.8,False,0.2857142857142857,False,0.0,False,True,0.0,False,False,True,False,True,-0.8857142857142857,4,4,Good,Good,True
+71,0.6666666666666666,0.0,-0.6,-0.3333333333333333,True,False,-0.6,False,-0.5714285714285714,False,0.0,False,True,-0.5,False,False,False,False,True,-0.8571428571428571,3,3,Average,Average,True
+72,-0.3333333333333333,-1.0,-0.6,-0.3333333333333333,True,False,-0.6,False,-0.5714285714285714,False,-1.0,True,True,1.0,False,False,False,False,False,-0.2857142857142857,3,3,Average,Average,True
+73,-0.5,0.0,-0.2,0.0,True,False,-0.6,True,-0.2857142857142857,False,0.0,False,False,-0.5,False,False,False,False,False,-0.4,3,3,Average,Average,True
+74,0.1666666666666666,0.0,0.8,2.0,True,False,-0.4,True,0.5714285714285714,False,1.0,False,False,0.5,False,False,False,False,True,0.6285714285714286,3,3,Average,Average,True
+75,0.0,0.5,0.2,-0.3333333333333333,True,True,0.2,False,0.0,False,0.0,False,False,0.5,True,False,False,False,True,-0.7714285714285715,3,3,Average,Average,True
+76,-0.5,0.0,-0.6,-0.3333333333333333,True,True,-0.6,False,-0.5714285714285714,False,0.0,False,False,0.0,True,False,False,False,False,-0.6857142857142857,3,3,Average,Average,True
+77,0.6666666666666666,-1.0,-0.2,-0.3333333333333333,False,True,-0.2,False,0.0,False,0.0,False,False,0.5,True,False,False,False,False,0.4,3,3,Average,Average,True
+78,-0.5,0.5,-0.6,-0.3333333333333333,True,False,-0.6,False,-0.5714285714285714,False,-1.0,False,False,-0.5,False,False,False,True,False,0.2857142857142857,3,3,Average,Average,True
+79,0.0,-0.5,-0.6,0.0,True,False,-0.2,False,0.1428571428571428,False,-1.0,False,True,0.0,False,False,True,False,True,-0.1142857142857142,3,3,Average,Average,True
+80,-0.5,-1.0,-0.6,-0.3333333333333333,True,False,-0.2,False,0.7142857142857143,False,0.0,False,True,0.0,False,False,True,False,True,0.0285714285714285,3,3,Average,Average,True
+81,0.0,0.0,0.8,-0.3333333333333333,False,False,1.0,False,0.7142857142857143,False,1.0,False,True,0.5,False,False,True,False,False,0.7428571428571429,3,4,Average,Good,False
+82,0.0,-0.5,1.0,1.6666666666666667,False,False,1.2,False,1.2857142857142858,False,-1.0,False,False,1.0,False,False,False,False,False,0.1428571428571428,2,2,Below Average,Below Average,True
+83,-0.5,-1.0,1.4,0.6666666666666666,True,True,1.2,False,2.2142857142857144,False,0.0,False,False,1.0,True,False,False,False,False,-0.2,3,2,Average,Below Average,False
+84,0.1666666666666666,0.0,1.4,1.6666666666666667,False,False,1.6,False,1.4285714285714286,False,0.0,False,False,0.0,False,True,False,False,True,0.5714285714285714,3,3,Average,Average,True
+85,-0.3333333333333333,0.5,0.8,-0.3333333333333333,True,False,-0.6,False,0.5714285714285714,False,0.0,False,False,0.0,False,False,False,True,True,-0.1714285714285714,3,3,Average,Average,True
+86,0.8333333333333334,-0.5,0.6,1.0,True,False,-0.6,False,0.4285714285714285,False,0.0,False,False,0.5,False,False,False,False,False,0.6,2,2,Below Average,Below Average,True
+87,0.6666666666666666,-0.5,0.8,1.6666666666666667,True,False,-0.2,False,0.2857142857142857,True,-1.0,False,False,0.5,True,False,False,False,False,0.1428571428571428,3,3,Average,Average,True
+88,0.8333333333333334,0.0,0.2,1.0,True,True,0.0,False,0.0,False,-1.0,False,False,-0.5,True,True,False,False,True,-0.5714285714285714,3,3,Average,Average,True
+89,-0.5,0.0,0.0,-0.3333333333333333,True,False,0.2,False,0.0,False,0.0,False,True,0.0,False,False,True,False,True,-0.5142857142857142,3,3,Average,Average,True
+90,0.3333333333333333,0.0,-0.2,0.0,True,False,-0.6,False,0.0,False,0.0,False,True,0.0,False,False,True,False,True,0.5714285714285714,3,3,Average,Average,True
+91,0.0,-1.0,-0.6,-0.3333333333333333,True,False,-0.6,False,-0.5714285714285714,False,-1.0,False,False,0.0,False,True,False,True,False,0.4285714285714285,3,3,Average,Average,True
+92,1.0,-1.0,0.0,0.0,True,False,0.2,False,0.0,False,1.0,False,True,0.0,False,False,True,False,True,0.0,2,3,Below Average,Average,False
+93,1.5,-1.0,-0.6,-0.3333333333333333,False,False,-0.6,False,-0.5714285714285714,False,1.0,False,False,-0.5,False,False,False,True,False,-0.3428571428571428,4,4,Good,Good,True
+94,0.0,0.0,0.0,0.0,True,False,-0.4,False,-0.1428571428571428,False,0.0,False,True,0.0,False,False,True,False,False,-0.2571428571428571,3,3,Average,Average,True
+95,0.0,-0.5,0.2,-0.3333333333333333,True,False,0.2,False,0.1428571428571428,False,-2.0,True,True,0.5,False,False,False,False,True,0.0,3,3,Average,Average,True
+96,0.5,-0.5,0.2,-0.3333333333333333,True,True,1.2,False,0.7142857142857143,False,0.0,False,False,0.0,True,False,False,False,True,0.0,3,3,Average,Average,True
+97,0.5,-1.0,0.8,-0.3333333333333333,False,True,0.8,False,0.4285714285714285,False,0.0,False,False,0.0,True,True,False,False,False,-0.1142857142857142,3,3,Average,Average,True
+98,-0.1666666666666666,0.5,-0.6,-0.3333333333333333,True,False,-0.6,False,-0.7142857142857143,False,0.0,False,False,-0.5,False,False,False,False,False,0.4285714285714285,3,3,Average,Average,True
+99,-0.3333333333333333,-0.5,-0.2,0.3333333333333333,True,False,-0.4,False,-0.4285714285714285,False,-1.0,True,True,1.5,False,False,False,False,False,0.4857142857142857,2,2,Below Average,Below Average,True
+100,0.1666666666666666,-0.5,1.6,2.1666666666666665,False,False,0.8,False,1.1428571428571428,False,0.0,False,False,0.0,True,False,False,False,True,0.1714285714285714,3,3,Average,Average,True
+101,0.8333333333333334,0.5,-0.2,-0.3333333333333333,True,False,-0.2,False,-0.4285714285714285,False,-1.0,False,False,-0.5,False,True,False,True,False,-0.2571428571428571,3,3,Average,Average,True
+102,0.6666666666666666,0.0,-0.2,-0.3333333333333333,True,False,0.6,False,0.4285714285714285,False,0.0,False,True,-0.5,False,False,False,False,False,-1.0,3,3,Average,Average,True
+103,1.6666666666666667,-1.0,-0.6,2.0,True,False,0.8,False,0.4285714285714285,False,0.0,False,True,0.0,False,False,True,False,False,-0.6285714285714286,4,4,Good,Good,True
+104,-0.3333333333333333,0.0,1.8,1.0,False,False,1.8,False,2.2142857142857144,False,1.0,True,True,1.0,False,False,False,False,True,0.7428571428571429,3,3,Average,Average,True
+105,-0.5,0.0,2.2,1.3333333333333333,True,False,1.8,False,1.5714285714285714,False,0.0,False,False,0.0,False,False,False,False,False,-0.3714285714285714,3,3,Average,Average,True
+106,0.0,0.0,0.0,0.0,False,False,0.2,False,0.0,False,-1.0,False,False,-0.5,False,False,False,False,False,-0.4857142857142857,3,3,Average,Average,True
+107,0.8333333333333334,-1.0,-0.2,0.0,True,False,-0.2,False,-0.4285714285714285,False,0.0,False,True,-0.5,False,False,False,False,True,-0.3428571428571428,2,2,Below Average,Below Average,True
+108,-0.3333333333333333,-1.0,-0.2,0.0,True,False,-0.2,False,-0.1428571428571428,False,0.0,False,False,-0.5,False,False,False,False,False,0.8,2,2,Below Average,Below Average,True
+109,-0.5,-0.5,1.2,1.6666666666666667,True,False,1.2,False,0.8571428571428571,False,0.0,False,True,0.0,False,False,True,False,True,0.5428571428571428,2,2,Below Average,Below Average,True
+110,0.5,0.5,0.2,0.0,False,False,0.2,False,0.0,False,-2.0,False,False,0.5,False,False,False,False,False,-0.3714285714285714,3,3,Average,Average,True
+111,0.5,0.5,0.0,0.0,True,False,-0.2,False,0.0,False,0.0,False,False,-0.5,False,False,False,False,True,-0.6571428571428571,3,3,Average,Average,True
+112,-0.3333333333333333,-0.5,-0.6,-0.3333333333333333,False,False,-0.6,False,-0.7142857142857143,False,1.0,False,True,-0.5,False,False,False,False,False,0.1142857142857142,3,3,Average,Average,True
+113,1.0,0.0,0.2,0.0,True,True,0.2,False,0.0,False,0.0,False,False,-0.5,True,False,False,False,False,-0.6571428571428571,4,4,Good,Good,True
+114,0.5,-1.0,-0.6,-0.3333333333333333,False,False,-0.6,False,-0.5714285714285714,False,0.0,False,False,0.5,False,False,False,False,True,-0.1714285714285714,3,3,Average,Average,True
+115,-0.3333333333333333,-1.0,-0.6,-0.3333333333333333,True,False,-0.6,False,-0.5714285714285714,False,1.0,False,False,-0.5,False,False,False,False,False,-0.9142857142857144,3,3,Average,Average,True
+116,1.0,0.0,0.4,0.3333333333333333,True,False,-0.2,False,0.4285714285714285,False,-1.0,False,False,-0.5,False,False,False,False,False,-0.3714285714285714,4,4,Good,Good,True
+117,0.3333333333333333,-0.5,0.0,-0.3333333333333333,True,False,0.2,False,0.0,False,-2.0,False,True,0.0,False,False,True,False,True,0.1428571428571428,3,2,Average,Below Average,False
+118,0.0,0.5,-0.2,0.0,True,True,-0.2,False,-0.2857142857142857,False,-2.0,False,False,-0.5,True,False,False,False,False,-0.1142857142857142,3,3,Average,Average,True
+119,-0.5,0.0,0.2,2.0,True,False,0.8,False,0.4285714285714285,False,1.0,False,True,0.5,False,True,True,False,False,-0.1142857142857142,3,3,Average,Average,True
+120,0.0,0.5,0.8,-0.3333333333333333,False,False,0.8,False,0.2857142857142857,False,0.0,False,True,0.0,False,False,True,False,False,0.6857142857142857,3,3,Average,Average,True
+121,-0.5,0.0,1.2,1.6666666666666667,False,True,1.4,False,1.0,False,0.0,False,False,0.0,True,False,False,False,False,0.0,3,3,Average,Average,True
+122,1.1666666666666667,0.0,0.4,0.0,True,True,0.6,False,0.4285714285714285,False,1.0,False,False,0.5,True,True,False,False,False,-0.2,4,4,Good,Good,True
+123,0.0,0.0,0.4,0.0,False,False,0.0,False,0.1428571428571428,False,-2.0,False,False,-0.5,False,False,False,False,False,0.5142857142857142,3,3,Average,Average,True
+124,0.6666666666666666,-1.0,0.8,2.1666666666666665,True,False,1.2,False,1.1428571428571428,False,0.0,False,True,0.5,False,False,True,False,False,-1.0,2,2,Below Average,Below Average,True
+125,0.0,-1.0,0.2,-0.3333333333333333,True,True,0.2,False,0.0,False,-1.0,False,False,-0.5,True,False,False,False,False,0.2571428571428571,3,3,Average,Average,True
+126,-0.1666666666666666,0.5,-0.2,0.0,True,False,0.2,False,0.0,False,-2.0,False,False,1.0,False,False,False,False,True,-1.0285714285714285,3,3,Average,Average,True
+127,0.0,-0.5,-0.2,0.0,False,False,0.0,False,-0.1428571428571428,False,-1.0,False,False,-0.5,False,True,False,False,True,0.5428571428571428,2,2,Below Average,Below Average,True
+128,0.5,0.0,-0.2,0.0,True,False,-0.2,False,-0.2857142857142857,False,0.0,False,True,0.0,False,False,True,False,True,0.7714285714285715,3,3,Average,Average,True
+129,0.5,0.5,-0.6,-0.3333333333333333,True,False,0.8,False,0.5714285714285714,False,0.0,False,True,0.0,False,False,True,False,False,0.4857142857142857,3,3,Average,Average,True
+130,1.3333333333333333,0.5,-0.6,-0.3333333333333333,True,False,-0.6,False,-0.5714285714285714,False,0.0,False,True,-0.5,False,False,False,False,True,0.2285714285714285,4,4,Good,Good,True
+131,0.0,0.0,-0.6,-0.3333333333333333,False,False,-0.6,False,-0.5714285714285714,False,1.0,False,True,-0.5,False,False,False,False,False,0.6857142857142857,3,3,Average,Average,True
+132,-0.3333333333333333,0.5,0.8,0.0,True,False,0.0,False,0.4285714285714285,False,0.0,False,False,0.0,False,False,False,False,True,-0.9714285714285714,3,3,Average,Average,True
+133,0.1666666666666666,-0.5,-0.2,-0.3333333333333333,False,False,-0.2,True,-0.2857142857142857,False,0.0,False,False,0.5,False,False,False,False,False,-0.6571428571428571,3,3,Average,Average,True
+134,1.3333333333333333,-1.0,0.8,-0.3333333333333333,True,False,0.8,False,0.4285714285714285,False,0.0,False,False,-0.5,False,False,False,False,True,0.4571428571428571,3,3,Average,Average,True
+135,0.0,0.0,0.8,-0.3333333333333333,True,False,0.8,False,0.4285714285714285,False,0.0,False,False,1.5,False,False,False,False,True,0.8571428571428571,3,3,Average,Average,True
+136,1.8333333333333333,-0.5,2.0,2.1666666666666665,True,False,0.8,False,2.2142857142857144,False,0.0,False,True,0.5,False,False,True,False,False,0.7428571428571429,2,2,Below Average,Below Average,True
+137,-0.3333333333333333,-0.5,0.4,1.0,True,True,0.0,False,0.1428571428571428,False,-1.0,False,False,0.0,True,False,False,False,True,-0.0285714285714285,3,3,Average,Average,True
+138,0.3333333333333333,0.0,0.0,-0.3333333333333333,False,True,-0.2,False,0.0,False,0.0,False,False,0.0,True,False,False,False,False,-0.8571428571428571,3,3,Average,Average,True
+139,-0.1666666666666666,-1.0,0.8,-0.3333333333333333,False,False,0.8,False,0.2857142857142857,False,0.0,False,True,0.0,False,False,True,False,False,0.5142857142857142,3,3,Average,Average,True
+140,1.0,-0.5,-0.2,-0.3333333333333333,True,False,0.2,False,0.0,False,1.0,False,False,-0.5,False,False,False,False,True,0.9142857142857144,4,3,Good,Average,False
+141,-0.1666666666666666,-1.0,-0.6,-0.3333333333333333,True,True,-0.6,False,-0.5714285714285714,False,0.0,False,False,0.5,True,False,False,False,False,0.9142857142857144,3,3,Average,Average,True
+142,-0.3333333333333333,-1.0,0.4,0.0,True,False,-0.2,False,0.1428571428571428,False,-1.0,False,False,-0.5,False,False,False,False,True,0.2285714285714285,2,2,Below Average,Below Average,True
+143,0.0,-0.5,0.8,0.0,False,False,0.8,False,0.2857142857142857,False,0.0,False,False,0.0,False,False,False,False,False,0.6857142857142857,2,2,Below Average,Below Average,True
+144,0.5,-1.0,1.0,0.6666666666666666,True,False,0.8,False,0.7142857142857143,False,0.0,False,False,0.0,False,False,False,False,True,-0.5428571428571428,2,2,Below Average,Below Average,True
+145,-0.5,-0.5,-0.2,0.0,False,True,-0.2,False,0.1428571428571428,False,0.0,False,False,0.0,True,False,False,False,False,-0.8285714285714286,3,3,Average,Average,True
+146,0.8333333333333334,0.0,-0.2,0.3333333333333333,True,False,-0.2,False,-0.4285714285714285,False,0.0,False,True,-0.5,False,False,False,False,False,-1.0,3,3,Average,Average,True
+147,0.1666666666666666,0.5,1.0,1.3333333333333333,False,False,1.0,False,0.5714285714285714,False,0.0,False,False,0.0,False,False,False,True,True,0.3142857142857143,3,3,Average,Average,True
+148,-0.3333333333333333,-1.0,1.2,1.0,True,False,1.2,False,1.0,False,0.0,True,True,1.0,False,False,False,False,True,-0.4,2,2,Below Average,Below Average,True
+149,-0.1666666666666666,0.0,-0.2,-0.3333333333333333,True,False,0.2,True,0.0,False,0.0,False,False,-0.5,False,False,False,False,True,-0.8571428571428571,3,3,Average,Average,True
+150,1.5,0.0,0.4,0.0,True,False,0.2,False,0.1428571428571428,False,-1.0,False,True,0.0,False,False,True,False,False,-0.9714285714285714,4,4,Good,Good,True
+151,0.0,-1.0,0.6,1.3333333333333333,True,True,2.3,False,2.2142857142857144,False,0.0,False,False,0.5,True,False,False,False,True,-0.6857142857142857,3,3,Average,Average,True
+152,0.5,0.5,-0.6,-0.3333333333333333,True,False,-0.6,True,-0.5714285714285714,False,0.0,False,False,-0.5,False,False,False,False,True,0.6571428571428571,3,3,Average,Average,True
+153,-0.1666666666666666,0.0,-0.2,1.0,True,False,-0.4,False,0.1428571428571428,False,0.0,False,False,-0.5,False,False,False,True,False,-0.4857142857142857,3,3,Average,Average,True
+154,0.6666666666666666,0.0,-0.2,0.3333333333333333,True,True,-0.2,False,-0.4285714285714285,False,0.0,False,False,-0.5,True,False,False,False,False,0.3142857142857143,3,3,Average,Average,True
+155,-0.3333333333333333,0.0,-0.6,-0.3333333333333333,False,False,-0.6,False,-0.7142857142857143,False,0.0,False,False,-0.5,False,False,False,True,False,0.4,3,3,Average,Average,True
+156,1.3333333333333333,0.0,-0.2,-0.3333333333333333,True,False,-0.2,True,-0.2857142857142857,False,0.0,False,False,-0.5,False,False,False,False,False,-0.0857142857142857,4,4,Good,Good,True
+157,-0.1666666666666666,-1.0,-0.2,-0.3333333333333333,True,False,-0.4,False,-0.2857142857142857,False,-2.0,False,False,1.0,True,False,False,False,True,-0.4285714285714285,3,3,Average,Average,True
+158,0.0,-1.0,-0.2,0.3333333333333333,True,False,-0.6,False,-0.4285714285714285,False,0.0,False,True,0.0,False,False,True,False,False,-0.0285714285714285,2,2,Below Average,Below Average,True
+159,0.5,0.5,1.2,2.1666666666666665,True,False,1.0,False,0.7142857142857143,False,0.0,False,True,0.0,False,False,True,False,True,0.2,3,3,Average,Average,True
+160,0.8333333333333334,0.5,-0.6,-0.3333333333333333,True,False,-0.6,False,-0.7142857142857143,False,-1.0,False,False,-0.5,False,False,False,False,True,0.6,3,3,Average,Average,True
+161,0.1666666666666666,0.0,0.8,0.0,True,False,0.8,False,0.2857142857142857,False,0.0,False,True,0.0,False,False,True,False,True,0.8,3,3,Average,Average,True
+162,0.6666666666666666,0.0,-0.2,0.3333333333333333,True,True,-0.2,False,-0.4285714285714285,False,-2.0,False,False,-0.5,True,False,False,False,False,-0.9714285714285714,3,3,Average,Average,True
+163,-0.3333333333333333,0.5,0.8,0.0,True,False,0.8,False,0.2857142857142857,False,0.0,False,False,0.5,False,False,False,False,True,-0.0857142857142857,3,3,Average,Average,True
+164,0.6666666666666666,0.0,1.0,1.3333333333333333,False,False,1.8,False,1.1428571428571428,False,-2.0,False,False,0.5,False,False,False,False,True,0.9142857142857144,2,2,Below Average,Below Average,True
+165,0.8333333333333334,0.0,1.6,0.3333333333333333,True,False,1.8,False,1.4285714285714286,False,0.0,False,False,1.0,False,False,False,False,True,-0.7142857142857143,3,3,Average,Average,True
+166,-0.1666666666666666,-0.5,0.4,-0.3333333333333333,False,False,0.0,False,0.1428571428571428,False,0.0,False,False,0.0,True,False,False,False,False,0.8285714285714286,3,4,Average,Good,False
+167,0.1666666666666666,0.0,0.8,2.0,True,True,1.0,False,0.7142857142857143,False,0.0,False,False,0.5,True,True,False,False,True,-0.8571428571428571,3,3,Average,Average,True
+168,0.6666666666666666,0.0,1.2,0.0,True,False,1.2,False,2.0,False,-1.0,False,False,0.5,False,False,False,False,True,-0.0285714285714285,3,3,Average,Average,True
+169,-0.3333333333333333,0.5,-0.6,-0.3333333333333333,True,False,-0.6,False,-0.5714285714285714,False,1.0,False,False,1.5,False,False,False,False,False,0.2857142857142857,3,4,Average,Good,False
+170,0.0,0.0,0.8,0.0,True,False,0.2,False,0.7142857142857143,False,0.0,False,False,0.0,False,False,False,False,False,-0.4571428571428571,3,3,Average,Average,True
+171,1.1666666666666667,0.0,0.2,-0.3333333333333333,False,False,0.4,False,0.1428571428571428,False,0.0,False,False,0.5,False,False,False,False,True,0.1428571428571428,4,4,Good,Good,True
+172,0.0,-1.0,-0.2,0.3333333333333333,False,False,-0.2,False,-0.2857142857142857,False,0.0,False,True,0.5,False,False,True,False,True,0.0571428571428571,2,2,Below Average,Below Average,True
+173,0.6666666666666666,0.0,0.8,2.0,False,False,0.8,False,0.2857142857142857,False,0.0,False,False,-0.5,False,True,False,False,True,-0.1428571428571428,3,3,Average,Average,True
+174,-0.3333333333333333,-0.5,2.3,0.0,True,False,1.6,False,1.8571428571428568,False,0.0,False,False,0.5,False,False,False,False,True,0.9428571428571428,2,2,Below Average,Below Average,True
+175,-0.5,0.0,0.2,-0.3333333333333333,True,False,0.0,False,0.0,False,1.0,False,True,0.0,False,False,True,False,False,-1.0285714285714285,3,3,Average,Average,True
+176,0.0,0.5,-0.2,0.6666666666666666,False,False,0.0,False,0.1428571428571428,False,-1.0,False,False,0.0,False,False,False,False,False,0.2571428571428571,3,3,Average,Average,True
+177,0.1666666666666666,0.0,-0.6,-0.3333333333333333,False,False,-0.4,False,-0.5714285714285714,False,0.0,False,True,0.5,False,True,True,False,False,-0.2285714285714285,3,3,Average,Average,True
+178,-0.1666666666666666,0.0,1.2,2.1666666666666665,True,False,-0.2,False,2.0,False,0.0,True,False,1.0,False,False,False,False,False,0.8,3,3,Average,Average,True
+179,0.0,-1.0,0.8,0.0,True,False,1.0,False,2.142857142857143,False,-2.0,False,False,0.0,False,False,False,False,False,0.2,2,2,Below Average,Below Average,True
+180,0.3333333333333333,0.5,0.6,2.1666666666666665,True,False,1.0,False,2.2142857142857144,False,0.0,False,False,1.0,False,False,False,False,True,-0.0285714285714285,3,3,Average,Average,True
+181,-0.3333333333333333,0.5,-0.2,-0.3333333333333333,True,False,-0.4,False,-0.4285714285714285,False,1.0,False,False,1.5,True,True,False,False,True,-0.8857142857142857,3,3,Average,Average,True
+182,-0.3333333333333333,0.5,0.8,-0.3333333333333333,True,False,-0.6,False,0.4285714285714285,False,0.0,False,False,0.5,True,False,False,False,True,0.1714285714285714,3,3,Average,Average,True
+183,0.6666666666666666,0.0,-0.2,0.3333333333333333,True,True,-0.2,False,-0.4285714285714285,False,0.0,False,False,-0.5,True,False,False,False,False,0.0285714285714285,3,3,Average,Average,True
+184,0.1666666666666666,0.5,2.0,1.3333333333333333,True,False,1.0,False,1.4285714285714286,False,0.0,False,True,0.0,False,False,True,False,True,0.5714285714285714,3,3,Average,Average,True
+185,0.0,0.0,-0.4,0.0,True,False,-0.2,False,-0.2857142857142857,False,1.0,False,False,-0.5,False,False,False,False,False,0.0571428571428571,3,4,Average,Good,False
+186,0.1666666666666666,-1.0,-0.6,-0.3333333333333333,True,False,-0.6,False,-0.7142857142857143,False,0.0,False,True,0.0,False,False,True,False,False,-0.9142857142857144,3,3,Average,Average,True
+187,1.0,-1.0,-0.4,-0.3333333333333333,True,False,-0.6,False,-0.5714285714285714,False,-1.0,False,False,-0.5,False,False,False,False,False,-0.8285714285714286,3,4,Average,Good,False
+188,-0.5,0.5,-0.6,0.0,True,False,-0.6,False,-0.2857142857142857,False,-1.0,False,True,0.0,False,False,True,False,True,0.2571428571428571,3,3,Average,Average,True
+189,0.8333333333333334,-1.0,-0.6,-0.3333333333333333,True,False,-0.6,False,-0.7142857142857143,False,0.0,False,True,0.0,False,False,True,False,True,0.3428571428571428,3,3,Average,Average,True
+190,0.8333333333333334,-0.5,-0.2,0.0,True,False,-0.2,False,-0.4285714285714285,False,0.0,False,True,-0.5,False,False,False,False,True,0.9142857142857144,2,3,Below Average,Average,False
+191,0.0,0.5,1.2,2.1666666666666665,True,True,1.0,False,0.7142857142857143,False,0.0,False,False,0.0,True,True,False,False,True,0.2571428571428571,3,3,Average,Average,True
+192,0.5,0.5,0.0,0.0,True,False,-0.2,False,-0.1428571428571428,False,-1.0,False,False,0.0,False,False,False,False,False,-0.8857142857142857,3,3,Average,Average,True
+193,0.0,0.0,0.0,0.0,False,False,0.0,False,0.1428571428571428,False,-1.0,False,True,0.0,False,False,True,False,False,-1.0,3,3,Average,Average,True
+194,0.0,-1.0,-0.6,-0.3333333333333333,True,True,-0.6,False,-0.5714285714285714,False,0.0,False,False,1.0,True,False,False,False,False,-0.6285714285714286,3,3,Average,Average,True
+195,-0.1666666666666666,0.0,0.8,-0.3333333333333333,False,False,0.8,False,0.2857142857142857,False,1.0,False,True,0.0,False,False,True,False,True,0.8285714285714286,3,3,Average,Average,True
+196,0.0,0.5,1.2,2.1666666666666665,True,False,1.6,False,2.0,False,0.0,True,False,1.5,False,False,False,False,True,-0.2285714285714285,3,3,Average,Average,True
+197,-0.1666666666666666,0.5,1.2,2.0,True,True,1.0,False,0.7142857142857143,False,-1.0,False,False,-0.5,True,True,False,False,False,-0.0857142857142857,3,3,Average,Average,True
+198,-0.3333333333333333,0.0,-0.2,0.0,True,False,0.0,False,-0.1428571428571428,False,0.0,False,True,0.5,False,False,True,False,True,-0.9428571428571428,3,3,Average,Average,True
+199,0.3333333333333333,0.0,-0.2,0.0,False,False,-0.2,False,-0.4285714285714285,False,0.0,False,False,-0.5,True,False,False,False,False,0.9428571428571428,3,3,Average,Average,True
+200,-0.3333333333333333,0.5,1.2,0.6666666666666666,False,False,0.8,False,2.142857142857143,False,0.0,False,False,0.0,False,False,False,False,False,-0.8285714285714286,3,3,Average,Average,True
+201,-0.5,-0.5,-0.2,0.3333333333333333,True,False,-0.2,False,-0.4285714285714285,False,0.0,False,True,0.0,False,False,True,False,True,0.1428571428571428,2,2,Below Average,Below Average,True
+202,0.0,0.5,-0.2,0.3333333333333333,True,True,-0.2,False,-0.2857142857142857,False,0.0,False,False,-0.5,True,False,False,False,False,0.5142857142857142,3,3,Average,Average,True
+203,-0.5,0.5,0.8,2.1666666666666665,True,True,0.4,False,0.5714285714285714,False,-2.0,False,False,0.0,True,False,False,False,True,-0.7142857142857143,3,3,Average,Average,True
+204,0.0,0.5,-0.2,0.3333333333333333,True,False,-0.2,False,-0.4285714285714285,False,0.0,False,True,-0.5,False,False,False,False,False,0.4857142857142857,3,3,Average,Average,True
+205,-0.1666666666666666,-0.5,-0.2,0.3333333333333333,True,False,-0.2,False,-0.4285714285714285,False,0.0,False,True,0.0,False,False,True,False,False,0.8571428571428571,2,2,Below Average,Below Average,True
+206,-0.1666666666666666,-0.5,-0.6,0.0,True,False,-0.6,False,-0.5714285714285714,False,-1.0,False,False,-0.5,False,False,False,False,True,0.6857142857142857,3,3,Average,Average,True
+207,0.0,0.5,0.2,0.0,True,False,-0.6,False,0.0,False,-2.0,False,False,-0.5,False,False,False,True,False,0.5714285714285714,3,3,Average,Average,True
+208,-0.5,0.5,-0.2,-0.3333333333333333,False,False,-0.2,False,-0.2857142857142857,False,-1.0,False,False,0.0,False,False,False,False,False,0.8285714285714286,3,3,Average,Average,True
+209,-0.5,0.5,0.6,2.0,True,True,1.0,False,0.5714285714285714,False,0.0,False,False,-0.5,True,False,False,False,False,-0.2857142857142857,3,3,Average,Average,True
+210,1.6666666666666667,-0.5,-0.2,-0.3333333333333333,True,False,-0.6,False,0.0,False,0.0,False,False,0.5,True,True,False,False,False,-1.0,3,3,Average,Average,True
+211,-0.5,-0.5,-0.2,0.0,True,True,0.0,False,-0.1428571428571428,False,0.0,False,False,-0.5,True,False,False,False,False,0.4857142857142857,3,3,Average,Average,True
+212,-0.3333333333333333,0.0,-0.2,0.3333333333333333,False,False,-0.2,False,-0.4285714285714285,False,0.0,False,True,-0.5,False,False,False,False,True,0.0285714285714285,3,3,Average,Average,True
+213,0.6666666666666666,0.0,1.0,2.0,True,False,0.8,False,0.5714285714285714,False,1.0,False,True,0.5,False,False,True,False,True,-0.6571428571428571,3,3,Average,Average,True
+214,-0.3333333333333333,-0.5,1.6,0.0,False,True,1.2,False,1.1428571428571428,False,0.0,False,False,0.0,True,False,False,False,False,0.3714285714285714,3,3,Average,Average,True
+215,0.6666666666666666,-0.5,1.2,-0.3333333333333333,True,True,2.3,False,1.7142857142857142,False,-2.0,False,False,0.0,True,False,False,False,False,-0.1714285714285714,3,3,Average,Average,True
+216,0.1666666666666666,-1.0,-0.2,0.0,False,False,-0.2,False,-0.2857142857142857,False,1.0,False,True,-0.5,False,False,False,False,True,0.7428571428571429,2,2,Below Average,Below Average,True
+217,0.0,-0.5,1.0,0.6666666666666666,False,False,0.8,False,0.5714285714285714,False,0.0,False,True,0.5,False,False,True,False,False,-0.6571428571428571,2,2,Below Average,Below Average,True
+218,-0.5,-1.0,0.4,2.1666666666666665,False,False,0.8,True,2.2142857142857144,False,0.0,True,False,1.5,False,False,False,False,True,0.9428571428571428,2,2,Below Average,Below Average,True
+219,1.1666666666666667,-0.5,1.0,1.0,True,False,1.0,False,0.7142857142857143,False,0.0,False,True,0.0,False,False,True,False,True,0.7428571428571429,2,2,Below Average,Below Average,True
+220,0.6666666666666666,0.5,0.8,0.0,True,True,-0.6,False,0.2857142857142857,False,0.0,False,False,1.0,True,False,False,False,False,0.9142857142857144,3,3,Average,Average,True
+221,1.1666666666666667,0.5,0.0,-0.3333333333333333,True,False,-0.2,False,0.0,True,0.0,False,False,-0.5,True,False,False,False,False,0.0,4,4,Good,Good,True
+222,-0.3333333333333333,0.5,1.0,2.0,True,False,1.2,False,0.8571428571428571,False,0.0,False,False,0.0,False,False,False,False,False,0.0,3,3,Average,Average,True
+223,-0.3333333333333333,-0.5,0.8,0.0,True,False,0.8,False,0.4285714285714285,False,-1.0,False,False,0.5,False,False,False,False,True,0.2,2,2,Below Average,Below Average,True
+224,1.3333333333333333,0.5,0.0,0.0,True,False,-0.2,False,-0.1428571428571428,False,0.0,False,False,-0.5,False,False,False,True,False,-0.4857142857142857,4,4,Good,Good,True
+225,-0.3333333333333333,-0.5,-0.6,-0.3333333333333333,True,False,-0.6,False,-0.5714285714285714,False,0.0,False,True,0.0,False,False,True,False,False,-0.6857142857142857,3,3,Average,Average,True
+226,-0.5,0.0,-0.2,0.0,True,False,0.2,False,0.1428571428571428,False,-1.0,False,False,-0.5,False,False,False,False,False,0.0285714285714285,3,3,Average,Average,True
+227,1.3333333333333333,-1.0,1.0,2.0,True,True,1.0,False,0.5714285714285714,False,0.0,False,False,0.0,True,False,False,False,True,-0.9428571428571428,3,3,Average,Average,True
+228,0.3333333333333333,-0.5,1.2,1.0,True,False,0.8,False,0.7142857142857143,False,-2.0,False,False,0.5,False,False,False,False,True,0.4285714285714285,2,3,Below Average,Average,False
+229,1.3333333333333333,-1.0,-0.2,-0.3333333333333333,True,False,-0.2,False,-0.2857142857142857,False,-2.0,False,False,-0.5,True,False,False,False,False,0.6857142857142857,3,3,Average,Average,True
+230,-0.5,0.5,-0.2,0.3333333333333333,False,False,-0.2,False,-0.4285714285714285,False,-1.0,False,True,-0.5,False,False,False,False,False,0.5142857142857142,3,3,Average,Average,True
+231,-0.3333333333333333,0.0,1.4,1.3333333333333333,True,False,1.0,False,0.8571428571428571,False,0.0,False,False,0.5,True,False,False,False,False,-0.6,3,3,Average,Average,True
+232,0.6666666666666666,-0.5,0.8,0.3333333333333333,False,True,1.0,False,0.7142857142857143,False,0.0,False,False,-0.5,True,False,False,False,False,0.2857142857142857,3,3,Average,Average,True
+233,-0.3333333333333333,0.0,1.2,2.1666666666666665,False,False,2.2,False,2.2142857142857144,False,-1.0,False,True,1.0,False,False,True,False,False,-0.6285714285714286,3,3,Average,Average,True
+234,-0.3333333333333333,0.0,-0.6,-0.3333333333333333,False,False,-0.6,False,-0.5714285714285714,False,0.0,False,True,-0.5,False,False,False,False,False,0.2857142857142857,3,3,Average,Average,True
+235,0.0,0.0,0.8,0.3333333333333333,True,False,0.8,False,0.4285714285714285,False,0.0,False,True,0.5,False,False,True,False,False,0.2,3,3,Average,Average,True
+236,0.0,-1.0,-0.2,0.3333333333333333,False,False,-0.2,False,-0.4285714285714285,False,0.0,False,False,1.0,False,False,False,False,True,0.6,2,2,Below Average,Below Average,True
+237,-0.5,0.0,0.8,0.0,True,False,0.8,False,0.2857142857142857,False,0.0,False,True,0.5,False,False,True,False,False,0.8,3,3,Average,Average,True
+238,0.6666666666666666,-0.5,-0.2,-0.3333333333333333,True,True,-0.2,False,-0.2857142857142857,False,0.0,False,False,-0.5,True,False,False,False,False,-0.3714285714285714,3,3,Average,Average,True
+239,0.1666666666666666,0.5,1.0,0.0,False,False,0.8,False,0.5714285714285714,False,0.0,False,True,0.5,False,False,True,False,False,-0.8285714285714286,3,3,Average,Average,True
+240,1.0,-1.0,1.4,2.1666666666666665,True,False,-0.4,False,0.8571428571428571,False,0.0,False,False,0.5,False,False,False,False,True,-0.1428571428571428,2,2,Below Average,Below Average,True

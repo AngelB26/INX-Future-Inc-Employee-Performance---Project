@@ -1,0 +1,21 @@
+feature,importance
+EmpEnvironmentSatisfaction,0.2833105594572347
+EmpLastSalaryHikePercent,0.25672808113624745
+YearsSinceLastPromotion,0.2040846861446593
+EmpDepartment_Development,0.06882011573441334
+EmpWorkLifeBalance,0.05624209466026362
+ExperienceYearsInCurrentRole,0.04617653966647907
+YearsWithCurrManager,0.021765638847162504
+EmpHourlyRate,0.019357705796381814
+EmpJobRole_Developer,0.01565618202071951
+ExperienceYearsAtThisCompany,0.015056093236909191
+EmpJobRole_Manager,0.003018598847555753
+EmpJobLevel,0.002053867849567553
+EmpDepartment_Human Resources,0.0019068292442489306
+EmpDepartment_Sales,0.0014876280013138969
+BusinessTravelFrequency_Travel_Rarely,0.0013773445704386598
+EmpJobRole_Laboratory Technician,0.0008463192686947616
+EmpJobRole_Sales Executive,0.0007589081253235059
+MaritalStatus_Married,0.0005485056739044706
+EducationBackground_Other,0.00047673325952396803
+EmpJobRole_Technical Lead,0.000327568458958039

@@ -33,5 +33,5 @@ Thumbs.db
 # Ignore large files if any
 *.zip
 *.tar.gz
-*.csv
+#*.csv
 *.xlsx
